@@ -1,0 +1,13 @@
+Have you deployed machine learning models into production environments?
+B) Yes, occasionally
+How would you rate your proficiency in Python for developing and deploying machine learning models in Production?
+B) Intermediate (3-5 years)
+Do you have experience in setting up CI/CD pipelines for ML model deployment?
+A) Yes, extensive experience
+Which cloud platforms have you worked with for model deployment and scaling?
+A) AWS
+Have you worked in distributed teams across different geographies to deploy ML solutions?
+B) Yes, occasionally
+Have you optimized machine learning code for production in large-scale systems?
+B) Yes, sometimes
+Have you worked with various data modalities (e.g., Video LLM, Computer Vision, Audio Models)?
